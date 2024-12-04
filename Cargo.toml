@@ -1,6 +1,9 @@
 [package]
 name = "iargs"
 version = "0.1.0"
+description = "A simple utility to inspect command-line arguments."
 edition = "2021"
+repository = "https://github.com/onion108/iargs"
+license = "MIT"
 
 [dependencies]
