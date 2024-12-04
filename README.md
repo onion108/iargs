@@ -4,7 +4,7 @@ A small programming for inspecting arguments. Useful when you have very complex 
 
 ## Usage
 ```shell
-sargs [args...]
+iargs [args...]
 ```
 
 It will print out every argument, in a nice formatted style (quoted & escaped).
